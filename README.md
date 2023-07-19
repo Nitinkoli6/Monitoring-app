@@ -13,9 +13,6 @@ Create ECR repository using Python Boto3 and pushing Docker Image to ECR
 Learn Kubernetes and Create EKS cluster and Nodegroups
 Create Kubernetes Deployments and Services using Python!
 
-# **Youtube Video for step by step Demonstration!**
-https://youtu.be/kBWCsHEcWnc
-
 ## **Prerequisites** !
 
 (Things to have before starting the projects)
